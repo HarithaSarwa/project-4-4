@@ -1,6 +1,6 @@
-Out put of Sample Array.java
+*Output of Sample Array.java*
 
-
+```
 print String array length 3
 kalyan
 haritha
@@ -19,3 +19,4 @@ printing value of num[3] 40
 printing value of num[2] 30
 printing value of num[1] 20
 printing value of num[0] 40
+```
